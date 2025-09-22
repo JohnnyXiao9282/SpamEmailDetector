@@ -1,0 +1,26 @@
+{
+    "configurations": [
+      {
+        "name": "Mac",
+        "includePath": [
+          "${workspaceFolder}/**",
+          "/usr/local/opt/qt@6/include",
+          "/usr/local/opt/qt@6/include/QtWidgets",
+          "/usr/local/opt/qt@6/include/QtGui",
+          "/usr/local/opt/qt@6/include/QtCore"
+        ],
+        "defines": [],
+        "macFrameworkPath": [
+          "/System/Library/Frameworks",
+          "/Library/Frameworks",
+          "/usr/local/lib"
+        ],
+        "compilerPath": "/usr/bin/clang++",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "macos-clang-x64"
+      }
+    ],
+    "version": 4
+  }
+  

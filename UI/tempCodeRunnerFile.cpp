@@ -1,0 +1,1 @@
+./SpamApp.app/Contents/MacOS/SpamApp
