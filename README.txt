@@ -1,8 +1,8 @@
-# Spam Email Detector
+# Experimental Spam Email Detector
 
 **Collaborators:** Julian & Johnny  
 
-This project is a collaborative effort to build a **spam email detector** using Python.  
+This project is an experimental collaborative effort to build a **spam email detector** using Python, C++.  
 It aims to classify emails as spam or not spam, helping users filter unwanted messages.  
 
 ## Features
